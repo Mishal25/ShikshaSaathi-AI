@@ -1,0 +1,6 @@
+{
+  "name": "ShikshaSaathi AI",
+  "description": "Foundational Literacy & Numeracy (FLN) diagnostic platform empowering primary school teachers with AI voice assessments, TaRL grouping, and tailored worksheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
