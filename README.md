@@ -19,3 +19,6 @@ The platform aims to transform classroom data into meaningful action—helping t
 
 **Tagline:**  
 *“Every Child at Their Level. Every Teacher with AI.”*
+
+
+<img width="1254" height="1254" alt="AI" src="https://github.com/user-attachments/assets/e137b22d-4638-4ade-b90e-5246459fd081" />
